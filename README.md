@@ -23,3 +23,6 @@ Nest your data by id, which is one variable in csv and defined in html file. Ret
 
 #### line & paths
 Define a line function that will return a `paths` element based on data. Path elements will be datajoined with the nested data. Then path elements will be used to handle entering and exiting elements.
+
+### Example 
+>![visualizaiton tasks](img/ex.png)
